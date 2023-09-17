@@ -30,7 +30,7 @@ This is a simple friend management application built using Python and the Tkinte
 3. Run the following command to start the application:
 
    ```shell
-   python main.py
+   python SocialCircleApp.py
 
 This will open the friend management application window.
 
